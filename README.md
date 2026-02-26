@@ -37,18 +37,18 @@ Ce projet utilise **Python**, **pandas**, **matplotlib** et un **algorithme gén
 ### Meilleurs paramètres trouvés
 | Paramètre | Valeur |
 |-----------|--------|
-| MA Short  | 20     |
-| MA Long   | 120    |
-| RSI p     | 14     |
+| MA Short  | 23     |
+| MA Long   | 192    |
+| RSI p     | 21     |
 | RSI OB    | 70     |
-| RSI OS    | 30     |
-| Volatility| 0.002  |
+| RSI OS    | 45     |
+| Volatility| 0.009  |
 
 ---
 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/<votre_nom_utilisateur>/crypto-trading-bot.git
+git clone https://github.com/theorick/algo_genetique_trading.git
 cd crypto-trading-bot
 pip install -r requirements.txt
